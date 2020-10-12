@@ -19,4 +19,12 @@ Out:   serial
 Err:   serial                                                                              
 Net:   emac
 
+But Olimex team provides generic Armbian for their board
+https://www.olimex.com/wiki/A20-OLinuXino-MICRO
+
+Direct Link
+ftp://staging.olimex.com/Allwinner_Images/A20-OLinuXino/1.latest_mainline_images/buster/images/
+
+The board is booting to Uboot with this image
+
 
